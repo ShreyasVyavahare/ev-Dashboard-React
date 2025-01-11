@@ -34,8 +34,8 @@ A modern, responsive dashboard built with React and Material-UI that visualizes 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ev-dashboard.git
-cd ev-dashboard
+git clone https://github.com/ShreyasVyavahare/ev-Dashboard-React.git
+cd ev-Dashboard-React
 ```
 
 2. Install dependencies:
@@ -105,5 +105,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - UI inspiration from modern dashboard designs
 - Built with React and Material-UI components
 
-## 📞 Contact
-For questions or feedback, please visit [https://evdashboardshreyas.netlify.app/](https://evdashboardshreyas.netlify.app/)
+
+
+## Project URL
+Have a look at Project at [https://evdashboardshreyas.netlify.app/](https://evdashboardshreyas.netlify.app/)
